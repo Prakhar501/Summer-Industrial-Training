@@ -120,13 +120,11 @@ Interested in:
 
 # 📅 Daily Progress
 
-| Day | Topics | Status |
-|------|--------|--------|
+| Day | Topics Covered | Status |
+|------|----------------|--------|
 | Day 1 | Python Basics (Class), NumPy Fundamentals | ✅ |
-| Day 2 | Coming Soon... | ⏳ |
-| Day 3 | Coming Soon... | ⏳ |
-
----
+| Day 2 | Image Processing (RGB Channels), Pandas Fundamentals, Power BI Introduction | ✅ |
+| Day 3 | Power BI Dashboard, Area Chart, Pie Chart, Donut Chart, Gauge Chart, Waterfall Chart, Card & Slicer | ✅ |
 
 # 📂 Repository Structure
 
@@ -184,10 +182,11 @@ Summer_Industrial_Training/
 
 ```
 Python                ██████████
-NumPy                 ███░░░░░░░
-Pandas                ░░░░░░░░░░
+NumPy                 ███████░░░
+Pandas                █████░░░░░
+Power BI              ████░░░░░░
 EDA                   ░░░░░░░░░░
-Visualization         ░░░░░░░░░░
+Visualization         ███░░░░░░░
 Machine Learning      ░░░░░░░░░░
 Deep Learning         ░░░░░░░░░░
 NLP                   ░░░░░░░░░░
