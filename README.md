@@ -124,7 +124,8 @@ Interested in:
 |------|----------------|--------|
 | Day 1 | Python Basics (Class), NumPy Fundamentals | ✅ |
 | Day 2 | Image Processing (RGB Channels), Pandas Fundamentals, Power BI Introduction | ✅ |
-| Day 3 | Power BI Dashboard, Area Chart, Pie Chart, Donut Chart, Gauge Chart, Waterfall Chart, Card & Slicer | ✅ |
+| Day 3 | Power BI Dashboard, Charts, Slicer & Interactive Visualizations | ✅ |
+| Day 4 | Microsoft Excel Basics, DAX (Implicit & Explicit Measures), Data Modeling, Star & Snowflake Schema | ✅ |
 
 # 📂 Repository Structure
 
