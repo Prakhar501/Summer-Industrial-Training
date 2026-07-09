@@ -120,12 +120,15 @@ Interested in:
 
 # 📅 Daily Progress
 
+## 📅 Daily Progress
+
 | Day | Topics Covered | Status |
 |------|----------------|--------|
 | Day 1 | Python Basics (Class), NumPy Fundamentals | ✅ |
 | Day 2 | Image Processing (RGB Channels), Pandas Fundamentals, Power BI Introduction | ✅ |
-| Day 3 | Power BI Dashboard, Charts, Slicer & Interactive Visualizations | ✅ |
+| Day 3 | Power BI Dashboard, Interactive Visualizations & Charts | ✅ |
 | Day 4 | Microsoft Excel Basics, DAX (Implicit & Explicit Measures), Data Modeling, Star & Snowflake Schema | ✅ |
+| Day 5 | Data Visualization using Matplotlib & Seaborn (Line, Bar, Histogram, Pie, Scatter & Box Plot) | ✅ |
 
 # 📂 Repository Structure
 
@@ -183,11 +186,13 @@ Summer_Industrial_Training/
 
 ```
 Python                ██████████
-NumPy                 ███████░░░
-Pandas                █████░░░░░
-Power BI              ████░░░░░░
+NumPy                 ████████░░
+Pandas                ███████░░░
+Power BI              ███████░░░
+Excel                 ███░░░░░░░
+Matplotlib            ██████░░░░
+Seaborn               ████░░░░░░
 EDA                   ░░░░░░░░░░
-Visualization         ███░░░░░░░
 Machine Learning      ░░░░░░░░░░
 Deep Learning         ░░░░░░░░░░
 NLP                   ░░░░░░░░░░
