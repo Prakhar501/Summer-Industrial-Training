@@ -136,17 +136,19 @@ Interested in:
 
 ```
 Summer_Industrial_Training/
-
 │
 ├── Day_01/
-│   ├── numpy_basics.ipynb
+├── Day_02/
+├── Day_03/
+├── Day_04/
+├── Day_05/
+├── Day_06/
 │   └── README.md
 │
-├── Day_02/
-│
-├── Day_03/
-│
-├── Projects/
+├── Day_07/
+│   ├── Industrial_Training_Day7.ipynb
+│   ├── salary_data.csv
+│   └── README.md
 │
 └── README.md
 ```
@@ -186,7 +188,6 @@ Summer_Industrial_Training/
 
 # 📈 Progress Tracker
 
-```
 Python                ██████████
 NumPy                 ████████░░
 Pandas                ███████░░░
@@ -195,13 +196,13 @@ Excel                 ███░░░░░░░
 Matplotlib            ██████░░░░
 Seaborn               ████░░░░░░
 Statistics            █████░░░░░
+Machine Learning      ███░░░░░░░
+Linear Regression     ██░░░░░░░░
 EDA                   ░░░░░░░░░░
-Machine Learning      ░░░░░░░░░░
 Deep Learning         ░░░░░░░░░░
 NLP                   ░░░░░░░░░░
 Deployment            ░░░░░░░░░░
 Capstone              ░░░░░░░░░░
-```
 
 *(Updated regularly throughout the training.)*
 
