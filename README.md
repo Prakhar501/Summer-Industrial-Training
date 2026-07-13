@@ -122,14 +122,17 @@ Interested in:
 
 ## 📅 Daily Progress
 
+## 📅 Daily Progress
+
 | Day | Topics Covered | Status |
 |------|----------------|--------|
-| Day 1 | Python Basics (Class), NumPy Fundamentals | ✅ |
-| Day 2 | Image Processing (RGB Channels), Pandas Fundamentals, Power BI Introduction | ✅ |
-| Day 3 | Power BI Dashboard, Interactive Visualizations & Charts | ✅ |
-| Day 4 | Microsoft Excel Basics, DAX (Implicit & Explicit Measures), Data Modeling, Star & Snowflake Schema | ✅ |
-| Day 5 | Data Visualization using Matplotlib & Seaborn (Line, Bar, Histogram, Pie, Scatter & Box Plot) | ✅ |
-| Day 6 | Statistics Fundamentals – Mean, Median, Mode, Variance and their applications in Data Science & ML | ✅|
+| Day 1 | Python Basics & NumPy Fundamentals | ✅ |
+| Day 2 | Image Processing, Pandas & Power BI Introduction | ✅ |
+| Day 3 | Power BI Dashboard & Interactive Visualizations | ✅ |
+| Day 4 | Microsoft Excel, DAX, Data Modeling, Star & Snowflake Schema | ✅ |
+| Day 5 | Data Visualization using Matplotlib & Seaborn | ✅ |
+| Day 6 | Statistics Fundamentals (Mean, Median, Mode, Variance & ML Applications) | ✅ |
+| Day 7 | Machine Learning Basics, ML Workflow & Linear Regression | ✅ |
 
 
 # 📂 Repository Structure
