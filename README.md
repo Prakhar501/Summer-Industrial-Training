@@ -129,6 +129,8 @@ Interested in:
 | Day 3 | Power BI Dashboard, Interactive Visualizations & Charts | ✅ |
 | Day 4 | Microsoft Excel Basics, DAX (Implicit & Explicit Measures), Data Modeling, Star & Snowflake Schema | ✅ |
 | Day 5 | Data Visualization using Matplotlib & Seaborn (Line, Bar, Histogram, Pie, Scatter & Box Plot) | ✅ |
+| Day 6 | Statistics Fundamentals – Mean, Median, Mode, Variance and their applications in Data Science & ML | ✅|
+
 
 # 📂 Repository Structure
 
@@ -192,6 +194,7 @@ Power BI              ███████░░░
 Excel                 ███░░░░░░░
 Matplotlib            ██████░░░░
 Seaborn               ████░░░░░░
+Statistics            █████░░░░░
 EDA                   ░░░░░░░░░░
 Machine Learning      ░░░░░░░░░░
 Deep Learning         ░░░░░░░░░░
