@@ -133,6 +133,7 @@ Interested in:
 | Day 5 | Data Visualization using Matplotlib & Seaborn | ✅ |
 | Day 6 | Statistics Fundamentals (Mean, Median, Mode, Variance & ML Applications) | ✅ |
 | Day 7 | Machine Learning Basics, ML Workflow & Linear Regression | ✅ |
+| Day 8 | Logistic Regression, MNIST Digit Classification & Streamlit Deployment | ✅ |
 
 
 # 📂 Repository Structure
@@ -199,14 +200,13 @@ Excel                 ███░░░░░░░
 Matplotlib            ██████░░░░
 Seaborn               ████░░░░░░
 Statistics            █████░░░░░
-Machine Learning      ███░░░░░░░
-Linear Regression     ██░░░░░░░░
-EDA                   ░░░░░░░░░░
+Machine Learning      █████░░░░░
+Linear Regression     ████░░░░░░
+Logistic Regression   ███░░░░░░░
+Model Deployment      ███░░░░░░░
 Deep Learning         ░░░░░░░░░░
 NLP                   ░░░░░░░░░░
-Deployment            ░░░░░░░░░░
 Capstone              ░░░░░░░░░░
-
 *(Updated regularly throughout the training.)*
 
 ---
