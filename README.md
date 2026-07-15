@@ -122,8 +122,6 @@ Interested in:
 
 ## 📅 Daily Progress
 
-## 📅 Daily Progress
-
 | Day | Topics Covered | Status |
 |------|----------------|--------|
 | Day 1 | Python Basics & NumPy Fundamentals | ✅ |
