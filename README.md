@@ -134,6 +134,7 @@ Interested in:
 | Day 6 | Statistics Fundamentals (Mean, Median, Mode, Variance & ML Applications) | ✅ |
 | Day 7 | Machine Learning Basics, ML Workflow & Linear Regression | ✅ |
 | Day 8 | Logistic Regression, MNIST Digit Classification & Streamlit Deployment | ✅ |
+| Day 9 | Decision Tree (Regressor & Classifier), Random Forest, Entropy, Gini Index, Information Gain, GridSearchCV & RandomizedSearchCV | ✅ |
 
 
 # 📂 Repository Structure
@@ -200,9 +201,12 @@ Excel                 ███░░░░░░░
 Matplotlib            ██████░░░░
 Seaborn               ████░░░░░░
 Statistics            █████░░░░░
-Machine Learning      █████░░░░░
+Machine Learning      ███████░░░
 Linear Regression     ████░░░░░░
 Logistic Regression   ███░░░░░░░
+Decision Trees        ████░░░░░░
+Random Forest         ████░░░░░░
+Hyperparameter Tuning ███░░░░░░░
 Model Deployment      ███░░░░░░░
 Deep Learning         ░░░░░░░░░░
 NLP                   ░░░░░░░░░░
