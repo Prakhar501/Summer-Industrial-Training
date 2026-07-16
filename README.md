@@ -133,6 +133,8 @@ Interested in:
 | Day 7 | Machine Learning Basics, ML Workflow & Linear Regression | ✅ |
 | Day 8 | Logistic Regression, MNIST Digit Classification & Streamlit Deployment | ✅ |
 | Day 9 | Decision Tree (Regressor & Classifier), Random Forest, Entropy, Gini Index, Information Gain, GridSearchCV & RandomizedSearchCV | ✅ |
+| Day 10 | Support Vector Classifier (SVC), Margins, Kernel Functions & Undersampling | ✅ |
+
 
 
 # 📂 Repository Structure
@@ -199,11 +201,12 @@ Excel                 ███░░░░░░░
 Matplotlib            ██████░░░░
 Seaborn               ████░░░░░░
 Statistics            █████░░░░░
-Machine Learning      ███████░░░
+Machine Learning      ████████░░
 Linear Regression     ████░░░░░░
 Logistic Regression   ███░░░░░░░
 Decision Trees        ████░░░░░░
 Random Forest         ████░░░░░░
+Support Vector Machine ████░░░░░░
 Hyperparameter Tuning ███░░░░░░░
 Model Deployment      ███░░░░░░░
 Deep Learning         ░░░░░░░░░░
