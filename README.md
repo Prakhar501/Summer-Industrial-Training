@@ -134,6 +134,8 @@ Interested in:
 | Day 8 | Logistic Regression, MNIST Digit Classification & Streamlit Deployment | ✅ |
 | Day 9 | Decision Tree (Regressor & Classifier), Random Forest, Entropy, Gini Index, Information Gain, GridSearchCV & RandomizedSearchCV | ✅ |
 | Day 10 | Support Vector Classifier (SVC), Margins, Kernel Functions & Undersampling | ✅ |
+| Day 11 | K-Means Clustering, Unsupervised Learning & Elbow Method | ✅ |
+| Day 12 | Principal Component Analysis (PCA) & Dimensionality Reduction | ✅ |
 
 
 
@@ -193,25 +195,27 @@ Summer_Industrial_Training/
 
 # 📈 Progress Tracker
 
-Python                ██████████
-NumPy                 ████████░░
-Pandas                ███████░░░
-Power BI              ███████░░░
-Excel                 ███░░░░░░░
-Matplotlib            ██████░░░░
-Seaborn               ████░░░░░░
-Statistics            █████░░░░░
-Machine Learning      ████████░░
-Linear Regression     ████░░░░░░
-Logistic Regression   ███░░░░░░░
-Decision Trees        ████░░░░░░
-Random Forest         ████░░░░░░
-Support Vector Machine ████░░░░░░
-Hyperparameter Tuning ███░░░░░░░
-Model Deployment      ███░░░░░░░
-Deep Learning         ░░░░░░░░░░
-NLP                   ░░░░░░░░░░
-Capstone              ░░░░░░░░░░
+Python                  ██████████
+NumPy                   ████████░░
+Pandas                  ███████░░░
+Power BI                ███████░░░
+Excel                   ███░░░░░░░
+Matplotlib              ██████░░░░
+Seaborn                 ████░░░░░░
+Statistics              █████░░░░░
+Machine Learning        █████████░
+Linear Regression       ████░░░░░░
+Logistic Regression     ███░░░░░░░
+Decision Trees          ████░░░░░░
+Random Forest           ████░░░░░░
+Support Vector Machine  ████░░░░░░
+K-Means Clustering      ████░░░░░░
+PCA                     ███░░░░░░░
+Hyperparameter Tuning   ███░░░░░░░
+Model Deployment        ███░░░░░░░
+Deep Learning           ░░░░░░░░░░
+NLP                     ░░░░░░░░░░
+Capstone                ░░░░░░░░░░
 *(Updated regularly throughout the training.)*
 
 ---
